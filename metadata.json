@@ -1,0 +1,7 @@
+{
+  "name": "LingoFlow AI",
+  "description": "An intelligent vocabulary learning assistant that generates topic-based lessons and provides real-time AI speech evaluation for pronunciation practice.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
